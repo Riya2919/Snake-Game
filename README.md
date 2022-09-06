@@ -9,12 +9,12 @@ Steps to follow:-<br></br>
 3) As it consumes the food, it's length goes on increasing and hence adding value to your score.<br>
 4) Avoid bumping into the walls, else the snake dies.<br>
 <br>
-# Demo video<br>
+# Demo video<br></br>
 
 
 https://user-images.githubusercontent.com/96763019/188544965-85c8a605-577d-43cf-be92-6ff155ee537d.mp4
 
-<br>
+<br></br>
 TEAM MEMBERS
 <br>
 1.)<a href="https://github.com/Abhiman1211">Abhiman Gautam </a>
