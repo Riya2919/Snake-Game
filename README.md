@@ -4,12 +4,6 @@ It is a snake game written in Python using the Pygame library.<br></br>
 
 Click spacebar to start the game.<br></br>
 
-Steps to follow:-<br></br>
-
-It is a snake game written in Python using the Pygame library. <br>
-
-Click spacebar to start the game.<br>
-
 Steps to follow:-<br>
 
 1) Use the arrow keys to control the movement of the snake.<br>
@@ -19,12 +13,6 @@ Steps to follow:-<br>
 
 <br>
 # Demo video<br>
-
-
-https://user-images.githubusercontent.com/96763019/188544965-85c8a605-577d-43cf-be92-6ff155ee537d.mp4
-
-<br>
-# Demo video<br></br>
 
 
 https://user-images.githubusercontent.com/96763019/188544965-85c8a605-577d-43cf-be92-6ff155ee537d.mp4
