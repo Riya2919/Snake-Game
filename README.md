@@ -1,9 +1,9 @@
 # Snake-Game
-It is a snake game written in Python using the Pygame library. <br>
+It is a snake game written in Python using the Pygame library.<br></br>
 
-Click spacebar to start the game.<br>
+Click spacebar to start the game.<br></br>
 
-Steps to follow:-<br>
+Steps to follow:-<br></br>
 1) Use the arrow keys to control the movement of the snake.<br>
 2) Snake should consume the food.<br>
 3) As it consumes the food, it's length goes on increasing and hence adding value to your score.<br>
